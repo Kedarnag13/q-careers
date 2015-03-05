@@ -42,6 +42,8 @@ gem "bootstrap-kaminari-views"
 gem "bootstrap-datepicker-rails"
 gem "jquery-validation-rails"
 gem "rolify"
+gem "mina", git: "git://github.com/nadarei/mina.git"
+
 
 # Use Capistrano for deployment
 group :development do
